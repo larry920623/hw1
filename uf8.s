@@ -121,5 +121,5 @@ enc_out:
 dec_out:
     .word 0,0,0,0,0,0,0,0
 check_out:
-    .word 0,0,0,0,0,0,0,0
+    .word 0,0,0,0,0,0,0,0 # all 1 if correct
 
