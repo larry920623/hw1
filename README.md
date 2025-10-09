@@ -3,7 +3,7 @@
 ## How to run – UF8 (Problem B), RV32I (Ripes)
 1. Open `uf8.s` in Ripes (desktop or web).
 2. Assemble → Run.  
-3. Memory → `.data` → check `intput`(0x10000000~0x1000001c), `enc_out`(0x10000020~0x0x100003c), `dec_out`(0x10000040~0x0x100005c), `check_out` (0x10000060~0x0x100007c)(all 1 = pass).
+3. Memory → `.data` → check `intput` (0x10000000~0x1000001c), `enc_out` (0x10000020~0x0x100003c), `dec_out` (0x10000040~0x0x100005c), `check_out`        (0x10000060~0x0x100007c)(all 1 = pass).
 
 ## Files
 - `uf8.s` – baseline (with checker)
